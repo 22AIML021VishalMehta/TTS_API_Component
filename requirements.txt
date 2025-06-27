@@ -1,0 +1,7 @@
+requests
+python-dotenv
+langdetect
+fastapi
+uvicorn
+gunicorn
+gTTS
